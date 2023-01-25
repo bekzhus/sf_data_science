@@ -44,7 +44,7 @@
 
 
 ### Результаты:  
-....
+Программа угадывает число в среднем за 5 попыток
 
 :arrow_up:[к оглавлению](https://github.com/bekzhus/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
